@@ -8,4 +8,6 @@ Bem-vindo ao repositorio! Este é um projeto de exemplo para demonstrar o uso b�
 - GitHub
 - Markdown
 
-### Estrutura do projeto
+### Sobre
+Meu nome é Guilherme tenho 27 anos e estou aprendendo git/devops
+
