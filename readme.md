@@ -8,6 +8,12 @@ Bem-vindo ao repositorio! Este é um projeto de exemplo para demonstrar o uso b�
 - GitHub
 - Markdown
 
-### Sobre
-Meu nome é Guilherme tenho 27 anos e estou aprendendo git/devops
+### Estrutura do projeto
 
+---
+
+### Adicionando conteudo remotamente
+
+---
+
+### Como trabalhar com Git
